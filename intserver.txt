@@ -1,1 +1,1 @@
-http://localhost/app/remote/
+http://jeruk.byethost4.com/remote/
